@@ -1,0 +1,25 @@
+@media screen and (max-width: 600px){
+	[class*="col-"]{
+		width: 100%
+	}
+	.menu-head, .m-start, .m-second, .menu, .menu-first, .menu-parraf{
+		max-width: 100%;
+	}
+
+	.ima{
+		max-width: 100%;
+	}
+	.menu-parraf{
+		display: none;
+	}
+	.menu-parraf1{
+		display: none;
+	}
+	.menu-icon{
+		display: inline-block;
+		padding-left: 260px;
+		margin-left:0;
+	}
+
+
+}
